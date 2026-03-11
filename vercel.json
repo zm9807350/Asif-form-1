@@ -6,7 +6,7 @@
   "routes": [
     { "src": "/maqsood", "dest": "/maqsood.js" },
     { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/Furqan", "dest": "/Furqan.js" },
+    { "src": "/meer", "dest": "/meer.js" },
     { "src": "/Aman", "dest": "/Aman.js" },
     { "src": "/Shabeer1", "dest": "/Shabeer1.js" },
     { "src": "/Shabeer2", "dest": "/Shabeer2.js" },
